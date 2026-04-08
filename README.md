@@ -153,7 +153,7 @@ Contributions are welcome!
 ## 💡 Author
 
 **Your Name**
-GitHub: https://github.com/YourUsername
+GitHub: https://github.com/sujalsingh-git
 
 ---
 
